@@ -59,8 +59,9 @@ div#green{
     text-align: left;
 }
 
-footer{
+footer p{
     text-align: center;
+    padding: 0px;
     padding-bottom: 10px;
     padding-right: 10px;
 }
